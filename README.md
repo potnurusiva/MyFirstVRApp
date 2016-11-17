@@ -1,8 +1,21 @@
-First VR App
-===================================
+My First VR App - 06/11/2016
+============================
+Name: Potnuru Siva
+E-mail: potnurusivaece@gmail.com
+Voice: +91-7829286877
+
+General Usage Notes
+-------------------
+- Mobile must be VR compatible and have accelerometer, magnetometer, gyroscope sensors     installed.
 
 
-Potnuru Siva
-It took me around one day to complete and install it in my phone.
-I liked so much to create this project (changing effects) animation and run it in my phone. 
-To understand the process of installing in phone is little challenging
+Installtion process
+-------------------
+- Copy the .APK file which is in Build folder to your device.
+- Use file manager to locate the file.
+- Then click on it, Android App installer should be one of the options in pop-up.
+- Select it and it installs, now enjoy the VR app in your device.
+
+About App
+---------
+- It is a basic VR app and you can feel the effects of VR based on the instructions appear on the screen.
